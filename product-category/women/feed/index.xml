@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/serenity/product-category/women/feed/" rel="self" type="application/rss+xml" />
 	<link>http://www.damontian.com/wordpress-serenity</link>
 	<description>Just another WordPress site</description>
-	<lastBuildDate>Fri, 04 Aug 2017 08:14:57 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 04 Aug 2017 08:35:10 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -35,6 +35,25 @@
 </ul>
 ]]></content:encoded>
 			<wfw:commentRss>http://www.damontian.com/wordpress-serenity/product/the-cashmere-crop-mockneck/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>The Soft Cotton Square Crew</title>
+		<link>http://www.damontian.com/wordpress-serenity/product/the-soft-cotton-square-crew/</link>
+		<comments>http://www.damontian.com/wordpress-serenity/product/the-soft-cotton-square-crew/#respond</comments>
+		<pubDate>Fri, 04 Aug 2017 08:35:09 +0000</pubDate>
+		<dc:creator><![CDATA[killahb308]]></dc:creator>
+		
+		<guid isPermaLink="false">http://www.damontian.com/wordpress-serenity/?post_type=product&#038;p=35</guid>
+		<description><![CDATA[The year-round layer. Our easy cotton sweater has an oversized cropped fit and elegant drape, so you can pair it with pretty much everything in your closet.]]></description>
+				<content:encoded><![CDATA[<ul class="product-details__container">
+<li class="product-details__item product-details__item--model">Model is 5′10″<span class="product-details__divider">Wearing size S</span></li>
+<li class="product-details__item product-details__item--fit">Oversized fit</li>
+<li class="product-details__item product-details__item--fabric">100% cotton<span class="product-details__divider">Hand wash cold, lay flat to dry</span></li>
+<li class="product-details__item product-details__item--factory">Made in Dongguan, China</li>
+</ul>
+]]></content:encoded>
+			<wfw:commentRss>http://www.damontian.com/wordpress-serenity/product/the-soft-cotton-square-crew/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 	</channel>
