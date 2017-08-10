@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Bags &#8211; Serenity</title>
+	<atom:link href="http://localhost/serenity/product-category/women/bags-women/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.damontian.com/wordpress-serenity</link>
+	<description>Love Gives Life Within - Modern stylish clothes for people who love to live.</description>
+	<lastBuildDate>Thu, 10 Aug 2017 00:08:39 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.1</generator>
+
+<image>
+	<url>http://www.damontian.com/wordpress-serenity/wp-content/uploads/2017/08/favicon.png</url>
+	<title>Bags &#8211; Serenity</title>
+	<link>http://www.damontian.com/wordpress-serenity</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>The Petra Backpack</title>
+		<link>http://www.damontian.com/wordpress-serenity/product/the-petra-backpack/</link>
+		<comments>http://www.damontian.com/wordpress-serenity/product/the-petra-backpack/#respond</comments>
+		<pubDate>Tue, 08 Aug 2017 18:20:10 +0000</pubDate>
+		<dc:creator><![CDATA[killahb308]]></dc:creator>
+		
+		<guid isPermaLink="false">http://www.damontian.com/wordpress-serenity/?post_type=product&#038;p=148</guid>
+		<description><![CDATA[Ease meets elegance with this new luxury backpack. It features ultrasuede lining, feet to protect the bag's base, a hidden loop for secure closure, an interior snap pocket, and a top handle for easy carry by hand. There is gunmetal-finish hardware on the leather drawstrings and at the feet.]]></description>
+				<content:encoded><![CDATA[<ul class="product-details__container">
+<li class="product-details__item product-details__item--fit"><span class="product-details__block">9” W × 5.5” D × 10.5” H</span><span class="product-details__block">27” &#8211; Strap length, adjustable to 27 1/2&#8243;</span><span class="product-details__block">4&#8243; &#8211; Top handle drop</span></li>
+<li class="product-details__item product-details__item--fabric">100% full-grain &#8211; Italian leather, ultrasuede lining &#8211; <span class="product-details__block">To clean, wipe dry with a damp cloth; for best results, apply a leather conditioner and water repellent spray before using and after each cleaning</span></li>
+<li class="product-details__item product-details__item--additional_details">Does not fit a laptop</li>
+<li class="product-details__item product-details__item--factory">Made in Vicenza, Italy</li>
+</ul>
+]]></content:encoded>
+			<wfw:commentRss>http://www.damontian.com/wordpress-serenity/product/the-petra-backpack/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>The Petra Magazine</title>
+		<link>http://www.damontian.com/wordpress-serenity/product/the-twill-zip-tote/</link>
+		<comments>http://www.damontian.com/wordpress-serenity/product/the-twill-zip-tote/#respond</comments>
+		<pubDate>Tue, 08 Aug 2017 18:11:34 +0000</pubDate>
+		<dc:creator><![CDATA[killahb308]]></dc:creator>
+		
+		<guid isPermaLink="false">http://www.damontian.com/wordpress-serenity/?post_type=product&#038;p=141</guid>
+		<description><![CDATA[An elegant take on the go-everywhere tote. It features tonal ultrasuede lining, two canvas pockets with snap closures, and polished chrome hardware at straps and feet.]]></description>
+				<content:encoded><![CDATA[<ul class="product-details__container">
+<li class="product-details__item product-details__item--fit"><span class="product-details__block">5.5&#8243; W Top, 11&#8243; W Bottom, 14&#8243; H &#8211; </span><span class="product-details__block">Handle Drop: 9&#8243;, adjustable by 2&#8243;</span></li>
+<li class="product-details__item product-details__item--fabric">100% Italian leather exterior, ultra-suede lining &#8211; <span class="product-details__block">To clean, wipe dry with a damp cloth; for best results, apply a leather conditioner and water repellent spray before using and after each cleaning</span></li>
+<li class="product-details__item product-details__item--factory">Made in Vicenza, Italy</li>
+</ul>
+]]></content:encoded>
+			<wfw:commentRss>http://www.damontian.com/wordpress-serenity/product/the-twill-zip-tote/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

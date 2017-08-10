@@ -8,15 +8,23 @@
 	>
 
 <channel>
-	<title>Sweaters &#8211; serenity</title>
+	<title>Sweaters &#8211; Serenity</title>
 	<atom:link href="http://localhost/serenity/product-category/women/sweaters/feed/" rel="self" type="application/rss+xml" />
 	<link>http://www.damontian.com/wordpress-serenity</link>
-	<description>Just another WordPress site</description>
-	<lastBuildDate>Mon, 07 Aug 2017 19:28:41 +0000</lastBuildDate>
+	<description>Love Gives Life Within - Modern stylish clothes for people who love to live.</description>
+	<lastBuildDate>Thu, 10 Aug 2017 00:08:39 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=4.8.1</generator>
+
+<image>
+	<url>http://www.damontian.com/wordpress-serenity/wp-content/uploads/2017/08/favicon.png</url>
+	<title>Sweaters &#8211; Serenity</title>
+	<link>http://www.damontian.com/wordpress-serenity</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
 	<item>
 		<title>The Cashmere Crop Mockneck</title>
 		<link>http://www.damontian.com/wordpress-serenity/product/the-cashmere-crop-mockneck/</link>

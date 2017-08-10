@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Pants &#8211; Serenity</title>
+	<atom:link href="http://localhost/serenity/product-category/women/pants/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.damontian.com/wordpress-serenity</link>
+	<description>Love Gives Life Within - Modern stylish clothes for people who love to live.</description>
+	<lastBuildDate>Thu, 10 Aug 2017 00:08:39 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.1</generator>
+
+<image>
+	<url>http://www.damontian.com/wordpress-serenity/wp-content/uploads/2017/08/favicon.png</url>
+	<title>Pants &#8211; Serenity</title>
+	<link>http://www.damontian.com/wordpress-serenity</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>The Classic French Terry Sweatpant</title>
+		<link>http://www.damontian.com/wordpress-serenity/product/the-classic-french-terry-sweatpant/</link>
+		<comments>http://www.damontian.com/wordpress-serenity/product/the-classic-french-terry-sweatpant/#respond</comments>
+		<pubDate>Tue, 08 Aug 2017 17:50:08 +0000</pubDate>
+		<dc:creator><![CDATA[killahb308]]></dc:creator>
+		
+		<guid isPermaLink="false">http://www.damontian.com/wordpress-serenity/?post_type=product&#038;p=121</guid>
+		<description><![CDATA[A better sweatpant. We looked to classic sportswear to created this French terry essential, with an easy straight fit and ribbed ankle cuffs. Wear it to the track, the gym, or that store that sells ice cream late.]]></description>
+				<content:encoded><![CDATA[<ul class="product-details__container">
+<li class="product-details__item product-details__item--model">Model is 5′10″ &#8211; <span class="product-details__divider">Wearing size S</span></li>
+<li class="product-details__item product-details__item--fabric">100% cotton &#8211; <span class="product-details__block">Machine wash cold, tumble dry low</span></li>
+<li class="product-details__item product-details__item--factory">Made in Ho Chi Minh City, Vietnam</li>
+</ul>
+]]></content:encoded>
+			<wfw:commentRss>http://www.damontian.com/wordpress-serenity/product/the-classic-french-terry-sweatpant/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>The GoWeave Crop Trouser</title>
+		<link>http://www.damontian.com/wordpress-serenity/product/the-goweave-crop-trouser/</link>
+		<comments>http://www.damontian.com/wordpress-serenity/product/the-goweave-crop-trouser/#respond</comments>
+		<pubDate>Tue, 08 Aug 2017 18:00:34 +0000</pubDate>
+		<dc:creator><![CDATA[killahb308]]></dc:creator>
+		
+		<guid isPermaLink="false">http://www.damontian.com/wordpress-serenity/?post_type=product&#038;p=131</guid>
+		<description><![CDATA[Polished yet comfortable, this will be the pant you’re always reaching for. GoWeave™ yarn is tightly spun in Italy, creating a wool twill that is wrinkle-resistant and astonishingly smooth. It's a mid rise trouser, sitting right at the waist. It's slim through the hip and thigh, with a straight leg that hits right above the ankle. The trouser features a fully-constructed waistband, full-length front seam, two front side pockets, two back pockets, and is unlined.]]></description>
+				<content:encoded><![CDATA[<ul class="product-details__container">
+<li class="product-details__item product-details__item--model">Model is 5′10″ &#8211; <span class="product-details__divider">Wearing size 2</span></li>
+<li class="product-details__item product-details__item--fit">Slim fit &#8211; <span class="product-details__divider">27&#8243; inseam</span></li>
+<li class="product-details__item product-details__item--fabric">100% wool &#8211; GoWeave wool is wrinkle-resistant and astonishingly smooth &#8211; <span class="product-details__block">Dry clean only</span></li>
+<li class="product-details__item product-details__item--factory">Made in Suzhou, China</li>
+</ul>
+]]></content:encoded>
+			<wfw:commentRss>http://www.damontian.com/wordpress-serenity/product/the-goweave-crop-trouser/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
