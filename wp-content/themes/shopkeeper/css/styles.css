@@ -8352,7 +8352,7 @@ html[dir="rtl"] .select2-container .select2-choice > .select2-chosen {
   font-size: 1px;
   text-decoration: none;
   border: 0;
-  background: url("http://www.damontian.com/wordpress-serenity/wp-content/themes/shopkeeper/images/select2.png") right top no-repeat;
+  background: url("https://damontian1.github.io/wordpress-serenity/wp-content/themes/shopkeeper/images/select2.png") right top no-repeat;
   cursor: pointer;
   outline: 0; }
 
@@ -8447,7 +8447,7 @@ html[dir="rtl"] .select2-container .select2-choice .select2-arrow {
   display: block;
   width: 100%;
   height: 100%;
-  background: url("http://www.damontian.com/wordpress-serenity/wp-content/themes/shopkeeper/images/select2.png") no-repeat 0 1px; }
+  background: url("https://damontian1.github.io/wordpress-serenity/wp-content/themes/shopkeeper/images/select2.png") no-repeat 0 1px; }
 
 html[dir="rtl"] .select2-container .select2-choice .select2-arrow b {
   background-position: 2px 1px; }
@@ -8476,36 +8476,36 @@ html[dir="rtl"] .select2-container .select2-choice .select2-arrow b {
   border-radius: 0;
   -webkit-box-shadow: none;
   box-shadow: none;
-  background: #fff url("http://www.damontian.com/wordpress-serenity/wp-content/themes/shopkeeper/images/select2.png") no-repeat 100% -22px;
-  background: url("http://www.damontian.com/wordpress-serenity/wp-content/themes/shopkeeper/images/select2.png") no-repeat 100% -22px, -webkit-gradient(linear, left bottom, left top, color-stop(0.85, #fff), color-stop(0.99, #eee));
-  background: url("http://www.damontian.com/wordpress-serenity/wp-content/themes/shopkeeper/images/select2.png") no-repeat 100% -22px, -webkit-linear-gradient(center bottom, #fff 85%, #eee 99%);
-  background: url("http://www.damontian.com/wordpress-serenity/wp-content/themes/shopkeeper/images/select2.png") no-repeat 100% -22px, -moz-linear-gradient(center bottom, #fff 85%, #eee 99%);
-  background: url("http://www.damontian.com/wordpress-serenity/wp-content/themes/shopkeeper/images/select2.png") no-repeat 100% -22px, -webkit-gradient(linear, left top, left bottom, color-stop(85%, #fff), color-stop(99%, #eee)) 0 0;
-  background: url("http://www.damontian.com/wordpress-serenity/wp-content/themes/shopkeeper/images/select2.png") no-repeat 100% -22px, -webkit-linear-gradient(top, #fff 85%, #eee 99%) 0 0;
-  background: url("http://www.damontian.com/wordpress-serenity/wp-content/themes/shopkeeper/images/select2.png") no-repeat 100% -22px, -o-linear-gradient(top, #fff 85%, #eee 99%) 0 0;
-  background: url("http://www.damontian.com/wordpress-serenity/wp-content/themes/shopkeeper/images/select2.png") no-repeat 100% -22px, linear-gradient(to bottom, #fff 85%, #eee 99%) 0 0; }
+  background: #fff url("https://damontian1.github.io/wordpress-serenity/wp-content/themes/shopkeeper/images/select2.png") no-repeat 100% -22px;
+  background: url("https://damontian1.github.io/wordpress-serenity/wp-content/themes/shopkeeper/images/select2.png") no-repeat 100% -22px, -webkit-gradient(linear, left bottom, left top, color-stop(0.85, #fff), color-stop(0.99, #eee));
+  background: url("https://damontian1.github.io/wordpress-serenity/wp-content/themes/shopkeeper/images/select2.png") no-repeat 100% -22px, -webkit-linear-gradient(center bottom, #fff 85%, #eee 99%);
+  background: url("https://damontian1.github.io/wordpress-serenity/wp-content/themes/shopkeeper/images/select2.png") no-repeat 100% -22px, -moz-linear-gradient(center bottom, #fff 85%, #eee 99%);
+  background: url("https://damontian1.github.io/wordpress-serenity/wp-content/themes/shopkeeper/images/select2.png") no-repeat 100% -22px, -webkit-gradient(linear, left top, left bottom, color-stop(85%, #fff), color-stop(99%, #eee)) 0 0;
+  background: url("https://damontian1.github.io/wordpress-serenity/wp-content/themes/shopkeeper/images/select2.png") no-repeat 100% -22px, -webkit-linear-gradient(top, #fff 85%, #eee 99%) 0 0;
+  background: url("https://damontian1.github.io/wordpress-serenity/wp-content/themes/shopkeeper/images/select2.png") no-repeat 100% -22px, -o-linear-gradient(top, #fff 85%, #eee 99%) 0 0;
+  background: url("https://damontian1.github.io/wordpress-serenity/wp-content/themes/shopkeeper/images/select2.png") no-repeat 100% -22px, linear-gradient(to bottom, #fff 85%, #eee 99%) 0 0; }
 
 html[dir="rtl"] .select2-search input {
   padding: 4px 5px 4px 20px;
-  background: #fff url("http://www.damontian.com/wordpress-serenity/wp-content/themes/shopkeeper/images/select2.png") no-repeat -37px -22px;
-  background: url("http://www.damontian.com/wordpress-serenity/wp-content/themes/shopkeeper/images/select2.png") no-repeat -37px -22px, -webkit-gradient(linear, left bottom, left top, color-stop(0.85, #fff), color-stop(0.99, #eee));
-  background: url("http://www.damontian.com/wordpress-serenity/wp-content/themes/shopkeeper/images/select2.png") no-repeat -37px -22px, -webkit-linear-gradient(center bottom, #fff 85%, #eee 99%);
-  background: url("http://www.damontian.com/wordpress-serenity/wp-content/themes/shopkeeper/images/select2.png") no-repeat -37px -22px, -moz-linear-gradient(center bottom, #fff 85%, #eee 99%);
-  background: url("http://www.damontian.com/wordpress-serenity/wp-content/themes/shopkeeper/images/select2.png") no-repeat -37px -22px, -webkit-gradient(linear, left top, left bottom, color-stop(85%, #fff), color-stop(99%, #eee)) 0 0;
-  background: url("http://www.damontian.com/wordpress-serenity/wp-content/themes/shopkeeper/images/select2.png") no-repeat -37px -22px, -webkit-linear-gradient(top, #fff 85%, #eee 99%) 0 0;
-  background: url("http://www.damontian.com/wordpress-serenity/wp-content/themes/shopkeeper/images/select2.png") no-repeat -37px -22px, -o-linear-gradient(top, #fff 85%, #eee 99%) 0 0;
-  background: url("http://www.damontian.com/wordpress-serenity/wp-content/themes/shopkeeper/images/select2.png") no-repeat -37px -22px, linear-gradient(to bottom, #fff 85%, #eee 99%) 0 0; }
+  background: #fff url("https://damontian1.github.io/wordpress-serenity/wp-content/themes/shopkeeper/images/select2.png") no-repeat -37px -22px;
+  background: url("https://damontian1.github.io/wordpress-serenity/wp-content/themes/shopkeeper/images/select2.png") no-repeat -37px -22px, -webkit-gradient(linear, left bottom, left top, color-stop(0.85, #fff), color-stop(0.99, #eee));
+  background: url("https://damontian1.github.io/wordpress-serenity/wp-content/themes/shopkeeper/images/select2.png") no-repeat -37px -22px, -webkit-linear-gradient(center bottom, #fff 85%, #eee 99%);
+  background: url("https://damontian1.github.io/wordpress-serenity/wp-content/themes/shopkeeper/images/select2.png") no-repeat -37px -22px, -moz-linear-gradient(center bottom, #fff 85%, #eee 99%);
+  background: url("https://damontian1.github.io/wordpress-serenity/wp-content/themes/shopkeeper/images/select2.png") no-repeat -37px -22px, -webkit-gradient(linear, left top, left bottom, color-stop(85%, #fff), color-stop(99%, #eee)) 0 0;
+  background: url("https://damontian1.github.io/wordpress-serenity/wp-content/themes/shopkeeper/images/select2.png") no-repeat -37px -22px, -webkit-linear-gradient(top, #fff 85%, #eee 99%) 0 0;
+  background: url("https://damontian1.github.io/wordpress-serenity/wp-content/themes/shopkeeper/images/select2.png") no-repeat -37px -22px, -o-linear-gradient(top, #fff 85%, #eee 99%) 0 0;
+  background: url("https://damontian1.github.io/wordpress-serenity/wp-content/themes/shopkeeper/images/select2.png") no-repeat -37px -22px, linear-gradient(to bottom, #fff 85%, #eee 99%) 0 0; }
 
 .select2-drop.select2-drop-above .select2-search input {
   margin-top: 4px; }
 
 .select2-search input.select2-active {
   background: #fff;
-  /*background: #fff url('http://www.damontian.com/wordpress-serenity/wp-content/themes/shopkeeper/css/select2-spinner.gif') no-repeat 100%;
-    background: url('http://www.damontian.com/wordpress-serenity/wp-content/themes/shopkeeper/images/select2-spinner.gif') no-repeat 100%, -webkit-gradient(linear, left bottom, left top, color-stop(0.85, #fff), color-stop(0.99, #eee));
-    background: url('http://www.damontian.com/wordpress-serenity/wp-content/themes/shopkeeper/images/select2-spinner.gif') no-repeat 100%, -webkit-linear-gradient(center bottom, #fff 85%, #eee 99%);
-    background: url('http://www.damontian.com/wordpress-serenity/wp-content/themes/shopkeeper/images/select2-spinner.gif') no-repeat 100%, -moz-linear-gradient(center bottom, #fff 85%, #eee 99%);
-    background: url('http://www.damontian.com/wordpress-serenity/wp-content/themes/shopkeeper/images/select2-spinner.gif') no-repeat 100%, linear-gradient(to bottom, #fff 85%, #eee 99%) 0 0;*/ }
+  /*background: #fff url('https://damontian1.github.io/wordpress-serenity/wp-content/themes/shopkeeper/css/select2-spinner.gif') no-repeat 100%;
+    background: url('https://damontian1.github.io/wordpress-serenity/wp-content/themes/shopkeeper/images/select2-spinner.gif') no-repeat 100%, -webkit-gradient(linear, left bottom, left top, color-stop(0.85, #fff), color-stop(0.99, #eee));
+    background: url('https://damontian1.github.io/wordpress-serenity/wp-content/themes/shopkeeper/images/select2-spinner.gif') no-repeat 100%, -webkit-linear-gradient(center bottom, #fff 85%, #eee 99%);
+    background: url('https://damontian1.github.io/wordpress-serenity/wp-content/themes/shopkeeper/images/select2-spinner.gif') no-repeat 100%, -moz-linear-gradient(center bottom, #fff 85%, #eee 99%);
+    background: url('https://damontian1.github.io/wordpress-serenity/wp-content/themes/shopkeeper/images/select2-spinner.gif') no-repeat 100%, linear-gradient(to bottom, #fff 85%, #eee 99%) 0 0;*/ }
 
 .select2-container-active .select2-choice,
 .select2-container-active .select2-choices {
@@ -8667,7 +8667,7 @@ disabled look for disabled choices in the results dropdown
   display: none; }
 
 .select2-more-results.select2-active {
-  /*background: #f4f4f4 url('http://www.damontian.com/wordpress-serenity/wp-content/themes/shopkeeper/css/select2-spinner.gif') no-repeat 100%;*/
+  /*background: #f4f4f4 url('https://damontian1.github.io/wordpress-serenity/wp-content/themes/shopkeeper/css/select2-spinner.gif') no-repeat 100%;*/
   background: #f4f4f4; }
 
 .select2-results .select2-ajax-error {
@@ -8750,7 +8750,7 @@ html[dir="rtl"] .select2-container-multi .select2-choices li {
   background: transparent !important; }
 
 .select2-container-multi .select2-choices .select2-search-field input.select2-active {
-  /*background: #fff url('http://www.damontian.com/wordpress-serenity/wp-content/themes/shopkeeper/css/select2-spinner.gif') no-repeat 100% !important;*/ }
+  /*background: #fff url('https://damontian1.github.io/wordpress-serenity/wp-content/themes/shopkeeper/css/select2-spinner.gif') no-repeat 100% !important;*/ }
 
 .select2-default {
   color: #999 !important; }
@@ -8801,7 +8801,7 @@ html[dir="rtl"] .select2-container-multi .select2-choices .select2-search-choice
   top: 4px;
   font-size: 1px;
   outline: none;
-  background: url("http://www.damontian.com/wordpress-serenity/wp-content/themes/shopkeeper/images/select2.png") right top no-repeat; }
+  background: url("https://damontian1.github.io/wordpress-serenity/wp-content/themes/shopkeeper/images/select2.png") right top no-repeat; }
 
 html[dir="rtl"] .select2-search-choice-close {
   right: auto;
@@ -8872,7 +8872,7 @@ html[dir="rtl"] .select2-container-multi .select2-search-choice-close {
   .select2-search-choice-close,
   .select2-container .select2-choice abbr,
   .select2-container .select2-choice .select2-arrow b {
-    background-image: url("http://www.damontian.com/wordpress-serenity/wp-content/themes/shopkeeper/images/select2x2.png") !important;
+    background-image: url("https://damontian1.github.io/wordpress-serenity/wp-content/themes/shopkeeper/images/select2x2.png") !important;
     background-repeat: no-repeat !important;
     background-size: 60px 40px !important; }
   .select2-search input {
@@ -9546,7 +9546,7 @@ dd {
 .cart-empty-box {
   width: 87px;
   height: 78px;
-  background-image: url("http://www.damontian.com/wordpress-serenity/wp-content/themes/shopkeeper/images/empty_cart_widget.png");
+  background-image: url("https://damontian1.github.io/wordpress-serenity/wp-content/themes/shopkeeper/images/empty_cart_widget.png");
   background-repeat: no-repeat;
   background-position: left top;
   background-size: 87px 78px;
@@ -10453,7 +10453,7 @@ textarea#comment {
   display: block;
   height: 10px;
   width: 100%;
-  /*background: url('http://www.damontian.com/wordpress-serenity/wp-content/themes/images/horizontal-grey-pattern.png');*/
+  /*background: url('https://damontian1.github.io/wordpress-serenity/wp-content/themes/images/horizontal-grey-pattern.png');*/
   position: absolute;
   top: -10px;
   left: 0; }
@@ -10873,7 +10873,7 @@ textarea#comment {
   display: inline-block;
   width: 50px;
   height: 16px;
-  background: url("http://www.damontian.com/wordpress-serenity/wp-content/themes/shopkeeper/images/morph-shape-gif-preloader.gif") center no-repeat;
+  background: url("https://damontian1.github.io/wordpress-serenity/wp-content/themes/shopkeeper/images/morph-shape-gif-preloader.gif") center no-repeat;
   background-size: auto 15px;
   vertical-align: top;
   position: relative;
@@ -12699,7 +12699,7 @@ form.checkout_coupon input[type="submit"] {
   display: inline-block;
   width: 50px;
   height: 16px;
-  background: url("http://www.damontian.com/wordpress-serenity/wp-content/themes/shopkeeper/images/morph-shape-gif-preloader.gif") center no-repeat;
+  background: url("https://damontian1.github.io/wordpress-serenity/wp-content/themes/shopkeeper/images/morph-shape-gif-preloader.gif") center no-repeat;
   background-size: auto 15px;
   position: absolute;
   top: 50%;
@@ -14783,13 +14783,13 @@ table tr td {
 .fr-thumbnail-loading-background,
 .fr-loading-background,
 .blockUI.blockOverlay:before {
-  background-image: url("http://www.damontian.com/wordpress-serenity/wp-content/themes/shopkeeper/images/morph-shape-gif-preloader.gif") !important;
+  background-image: url("https://damontian1.github.io/wordpress-serenity/wp-content/themes/shopkeeper/images/morph-shape-gif-preloader.gif") !important;
   background-size: 15px auto !important;
   background-position: center;
   background-repeat: no-repeat; }
 
 .yith-wcwl-add-button:after {
-  background-image: url("http://www.damontian.com/wordpress-serenity/wp-content/themes/shopkeeper/images/morph-shape-gif-preloader.gif") !important;
+  background-image: url("https://damontian1.github.io/wordpress-serenity/wp-content/themes/shopkeeper/images/morph-shape-gif-preloader.gif") !important;
   background-size: 20px auto !important;
   background-position: center;
   background-repeat: no-repeat; }
@@ -14801,7 +14801,7 @@ table tr td {
   -ms-transform: none !important;
   transform: none !important;
   background-color: transparent;
-  background-image: url("http://www.damontian.com/wordpress-serenity/wp-content/themes/shopkeeper/images/morph-shape-gif-preloader.gif") !important;
+  background-image: url("https://damontian1.github.io/wordpress-serenity/wp-content/themes/shopkeeper/images/morph-shape-gif-preloader.gif") !important;
   background-size: auto 15px !important;
   background-position: center !important;
   background-repeat: no-repeat !important; }
@@ -15038,7 +15038,7 @@ ul.wc_payment_methods.payment_methods.methods li.wc_payment_method > label:befor
   height: 16px;
   left: 0;
   top: 0px;
-  background-image: url("http://www.damontian.com/wordpress-serenity/wp-content/themes/shopkeeper/images/radio.png");
+  background-image: url("https://damontian1.github.io/wordpress-serenity/wp-content/themes/shopkeeper/images/radio.png");
   background-color: #fff;
   background-repeat: no-repeat;
   background-size: 16px 40px;
@@ -15056,7 +15056,7 @@ ul.wc_payment_methods.payment_methods.methods li.wc_payment_method > label:befor
   height: 16px;
   left: 0;
   top: -1px;
-  background-image: url("http://www.damontian.com/wordpress-serenity/wp-content/themes/shopkeeper/images/radio.png");
+  background-image: url("https://damontian1.github.io/wordpress-serenity/wp-content/themes/shopkeeper/images/radio.png");
   background-color: #fff;
   background-repeat: no-repeat;
   background-size: 16px 40px;
@@ -15082,7 +15082,7 @@ ul.wc_payment_methods.payment_methods.methods li.wc_payment_method > label:befor
   height: 20px;
   left: 0;
   top: 0px;
-  background-image: url("http://www.damontian.com/wordpress-serenity/wp-content/themes/shopkeeper/images/checkbox.png");
+  background-image: url("https://damontian1.github.io/wordpress-serenity/wp-content/themes/shopkeeper/images/checkbox.png");
   background-color: #fff;
   background-repeat: no-repeat;
   background-size: 20px 40px;
@@ -16733,7 +16733,7 @@ li.display_buttons .product_after_shop_loop {
     content: "";
     height: 100%;
     width: 100%;
-    background: url("http://www.damontian.com/wordpress-serenity/wp-content/themes/shopkeeper/images/morph-shape-gif-preloader.gif") center no-repeat rgba(255, 255, 255, 0.65);
+    background: url("https://damontian1.github.io/wordpress-serenity/wp-content/themes/shopkeeper/images/morph-shape-gif-preloader.gif") center no-repeat rgba(255, 255, 255, 0.65);
     background-size: auto 15px; }
 
 .product_thumbnail.with_second_image {
@@ -17397,12 +17397,12 @@ article .categories_grid {
 .woocommerce .widget_layered_nav ul li.chosen a:before,
 .woocommerce-page .widget_layered_nav ul li.chosen a:before,
 .widget_layered_nav ul li.chosen a:before {
-  background: url("http://www.damontian.com/wordpress-serenity/wp-content/themes/shopkeeper/images/filter-check.svg") center center no-repeat;
+  background: url("https://damontian1.github.io/wordpress-serenity/wp-content/themes/shopkeeper/images/filter-check.svg") center center no-repeat;
   content: " ";
   border: 0; }
 
 .woocommerce .widget_rating_filter ul li.chosen a:before {
-  background: url("http://www.damontian.com/wordpress-serenity/wp-content/themes/shopkeeper/images/filter-delete.svg") center center no-repeat;
+  background: url("https://damontian1.github.io/wordpress-serenity/wp-content/themes/shopkeeper/images/filter-delete.svg") center center no-repeat;
   content: " ";
   border: 0;
   display: block;
@@ -17420,7 +17420,7 @@ article .categories_grid {
 .woocommerce .widget_layered_nav ul li.chosen a:hover:before,
 .woocommerce-page .widget_layered_nav ul li.chosen a:hover:before,
 .widget_layered_nav ul li.chosen a:hover:before {
-  background: url("http://www.damontian.com/wordpress-serenity/wp-content/themes/shopkeeper/images/filter-delete.svg") center center no-repeat;
+  background: url("https://damontian1.github.io/wordpress-serenity/wp-content/themes/shopkeeper/images/filter-delete.svg") center center no-repeat;
   content: " "; }
 
 .woocommerce .widget_layered_nav ul li.chosen a:hover,
@@ -17462,7 +17462,7 @@ article .categories_grid {
   float: left;
   margin-top: 3px;
   border-radius: 2px;
-  background: url("http://www.damontian.com/wordpress-serenity/wp-content/themes/shopkeeper/images/filter-check.svg") center center no-repeat;
+  background: url("https://damontian1.github.io/wordpress-serenity/wp-content/themes/shopkeeper/images/filter-check.svg") center center no-repeat;
   content: " "; }
 
 .woocommerce .widget_layered_nav_filters ul li a,
@@ -17473,7 +17473,7 @@ article .categories_grid {
 .woocommerce .widget_layered_nav_filters ul li > a:hover:before,
 .woocommerce-page .widget_layered_nav_filters ul li > a:hover:before,
 .widget_layered_nav_filters ul li > a:hover:before {
-  background: url("http://www.damontian.com/wordpress-serenity/wp-content/themes/shopkeeper/images/filter-delete.svg") center center no-repeat;
+  background: url("https://damontian1.github.io/wordpress-serenity/wp-content/themes/shopkeeper/images/filter-delete.svg") center center no-repeat;
   content: " "; }
 
 .woocommerce .widget_layered_nav_filters ul li > a:hover,
@@ -19290,7 +19290,7 @@ article .categories_grid {
   display: block;
   width: 100%;
   text-align: center;
-  background: url(http://www.damontian.com/wordpress-serenity/wp-content/themes/shopkeeper/images/empty-wishlist.png) center center no-repeat;
+  background: url(https://damontian1.github.io/wordpress-serenity/wp-content/themes/shopkeeper/images/empty-wishlist.png) center center no-repeat;
   height: 156px;
   margin-bottom: 40px; }
 
@@ -22071,36 +22071,36 @@ select.topbar-language-switcher,
   font-family: 'Radnika';
   font-style: normal;
   font-weight: 500;
-  src: url("http://www.damontian.com/wordpress-serenity/wp-content/themes/shopkeeper/inc/fonts/theme/Radnika-Regular.eot");
+  src: url("https://damontian1.github.io/wordpress-serenity/wp-content/themes/shopkeeper/inc/fonts/theme/Radnika-Regular.eot");
   /* IE9 Compat Modes */
-  src: url("http://www.damontian.com/wordpress-serenity/wp-content/themes/shopkeeper/inc/fonts/theme/Radnika-Regular.eot#iefix") format("embedded-opentype"), url("http://www.damontian.com/wordpress-serenity/wp-content/themes/shopkeeper/inc/fonts/theme/Radnika-Regular.woff2") format("woff2"), url("http://www.damontian.com/wordpress-serenity/wp-content/themes/shopkeeper/inc/fonts/theme/Radnika-Regular.woff") format("woff");
+  src: url("https://damontian1.github.io/wordpress-serenity/wp-content/themes/shopkeeper/inc/fonts/theme/Radnika-Regular.eot#iefix") format("embedded-opentype"), url("https://damontian1.github.io/wordpress-serenity/wp-content/themes/shopkeeper/inc/fonts/theme/Radnika-Regular.woff2") format("woff2"), url("https://damontian1.github.io/wordpress-serenity/wp-content/themes/shopkeeper/inc/fonts/theme/Radnika-Regular.woff") format("woff");
   /* Pretty Modern Browsers */ }
 
 @font-face {
   font-family: 'Radnika';
   font-style: normal;
   font-weight: 700;
-  src: url("http://www.damontian.com/wordpress-serenity/wp-content/themes/shopkeeper/inc/fonts/theme/Radnika-Bold.eot");
+  src: url("https://damontian1.github.io/wordpress-serenity/wp-content/themes/shopkeeper/inc/fonts/theme/Radnika-Bold.eot");
   /* IE9 Compat Modes */
-  src: url("http://www.damontian.com/wordpress-serenity/wp-content/themes/shopkeeper/inc/fonts/theme/Radnika-Bold.eot#iefix") format("embedded-opentype"), url("http://www.damontian.com/wordpress-serenity/wp-content/themes/shopkeeper/inc/fonts/theme/Radnika-Bold.woff2") format("woff2"), url("http://www.damontian.com/wordpress-serenity/wp-content/themes/shopkeeper/inc/fonts/theme/Radnika-Bold.woff") format("woff");
+  src: url("https://damontian1.github.io/wordpress-serenity/wp-content/themes/shopkeeper/inc/fonts/theme/Radnika-Bold.eot#iefix") format("embedded-opentype"), url("https://damontian1.github.io/wordpress-serenity/wp-content/themes/shopkeeper/inc/fonts/theme/Radnika-Bold.woff2") format("woff2"), url("https://damontian1.github.io/wordpress-serenity/wp-content/themes/shopkeeper/inc/fonts/theme/Radnika-Bold.woff") format("woff");
   /* Pretty Modern Browsers */ }
 
 @font-face {
   font-family: 'NeueEinstellung';
   font-style: normal;
   font-weight: 500;
-  src: url("http://www.damontian.com/wordpress-serenity/wp-content/themes/shopkeeper/inc/fonts/theme/NeueEinstellung-Regular.eot");
+  src: url("https://damontian1.github.io/wordpress-serenity/wp-content/themes/shopkeeper/inc/fonts/theme/NeueEinstellung-Regular.eot");
   /* IE9 Compat Modes */
-  src: url("http://www.damontian.com/wordpress-serenity/wp-content/themes/shopkeeper/inc/fonts/theme/NeueEinstellung-Regular.eot#iefix") format("embedded-opentype"), url("http://www.damontian.com/wordpress-serenity/wp-content/themes/shopkeeper/inc/fonts/theme/NeueEinstellung-Regular.woff2") format("woff2"), url("http://www.damontian.com/wordpress-serenity/wp-content/themes/shopkeeper/inc/fonts/theme/NeueEinstellung-Regular.woff") format("woff");
+  src: url("https://damontian1.github.io/wordpress-serenity/wp-content/themes/shopkeeper/inc/fonts/theme/NeueEinstellung-Regular.eot#iefix") format("embedded-opentype"), url("https://damontian1.github.io/wordpress-serenity/wp-content/themes/shopkeeper/inc/fonts/theme/NeueEinstellung-Regular.woff2") format("woff2"), url("https://damontian1.github.io/wordpress-serenity/wp-content/themes/shopkeeper/inc/fonts/theme/NeueEinstellung-Regular.woff") format("woff");
   /* Pretty Modern Browsers */ }
 
 @font-face {
   font-family: 'NeueEinstellung';
   font-style: normal;
   font-weight: 700;
-  src: url("http://www.damontian.com/wordpress-serenity/wp-content/themes/shopkeeper/inc/fonts/theme/NeueEinstellung-Bold.eot");
+  src: url("https://damontian1.github.io/wordpress-serenity/wp-content/themes/shopkeeper/inc/fonts/theme/NeueEinstellung-Bold.eot");
   /* IE9 Compat Modes */
-  src: url("http://www.damontian.com/wordpress-serenity/wp-content/themes/shopkeeper/inc/fonts/theme/NeueEinstellung-Bold.eot#iefix") format("embedded-opentype"), url("http://www.damontian.com/wordpress-serenity/wp-content/themes/shopkeeper/inc/fonts/theme/NeueEinstellung-Bold.woff2") format("woff2"), url("http://www.damontian.com/wordpress-serenity/wp-content/themes/shopkeeper/inc/fonts/theme/NeueEinstellung-Bold.woff") format("woff");
+  src: url("https://damontian1.github.io/wordpress-serenity/wp-content/themes/shopkeeper/inc/fonts/theme/NeueEinstellung-Bold.eot#iefix") format("embedded-opentype"), url("https://damontian1.github.io/wordpress-serenity/wp-content/themes/shopkeeper/inc/fonts/theme/NeueEinstellung-Bold.woff2") format("woff2"), url("https://damontian1.github.io/wordpress-serenity/wp-content/themes/shopkeeper/inc/fonts/theme/NeueEinstellung-Bold.woff") format("woff");
   /* Pretty Modern Browsers */ }
 
 .cd-quick-view {
@@ -24073,7 +24073,7 @@ p.woocommerce-error {
   .product_layout_classic .product-images-wrapper .easyzoom.is-loading:after {
     display: none; }
   .product_layout_classic .product-images-wrapper .product_images .swiper-slide .easyzoom.el_zoom img {
-    cursor: url(http://www.damontian.com/wordpress-serenity/wp-content/themes/shopkeeper/images/cursor-zoom.png), auto; }
+    cursor: url(https://damontian1.github.io/wordpress-serenity/wp-content/themes/shopkeeper/images/cursor-zoom.png), auto; }
   .product_layout_classic .product-images-wrapper .product_images .swiper-slide .swiper-lazy-preloader {
     -webkit-animation: none;
     animation: none;
@@ -24093,7 +24093,7 @@ p.woocommerce-error {
       content: "";
       height: 100%;
       width: 100%;
-      background: url("http://www.damontian.com/wordpress-serenity/wp-content/themes/shopkeeper/images/morph-shape-gif-preloader.gif") center no-repeat;
+      background: url("https://damontian1.github.io/wordpress-serenity/wp-content/themes/shopkeeper/images/morph-shape-gif-preloader.gif") center no-repeat;
       background-size: auto 15px;
       pointer-events: none; }
   .product_layout_classic .product-images-wrapper .product_images .swiper-slide img {
@@ -24160,7 +24160,7 @@ p.woocommerce-error {
     content: "";
     height: 100%;
     width: 100%;
-    background: url("http://www.damontian.com/wordpress-serenity/wp-content/themes/shopkeeper/images/morph-shape-gif-preloader.gif") center no-repeat;
+    background: url("https://damontian1.github.io/wordpress-serenity/wp-content/themes/shopkeeper/images/morph-shape-gif-preloader.gif") center no-repeat;
     background-size: auto 15px; }
 
 .product_layout_classic .mobile_gallery_thumbs {
@@ -25122,7 +25122,7 @@ p.woocommerce-error {
         vertical-align: middle;
         width: 100%; }
         .product_layout_2 .product_content_wrapper .product-images-wrapper .product_images .product-image .easyzoom.el_zoom img {
-          cursor: url(http://www.damontian.com/wordpress-serenity/wp-content/themes/shopkeeper/images/cursor-zoom.png), auto; }
+          cursor: url(https://damontian1.github.io/wordpress-serenity/wp-content/themes/shopkeeper/images/cursor-zoom.png), auto; }
         .product_layout_2 .product_content_wrapper .product-images-wrapper .product_images .product-image.mobile {
           display: none; }
         .product_layout_2 .product_content_wrapper .product-images-wrapper .product_images .product-image .desktop-image {
@@ -25205,7 +25205,7 @@ p.woocommerce-error {
       content: "";
       height: 100%;
       width: 100%;
-      background: url("http://www.damontian.com/wordpress-serenity/wp-content/themes/shopkeeper/images/morph-shape-gif-preloader.gif") center no-repeat;
+      background: url("https://damontian1.github.io/wordpress-serenity/wp-content/themes/shopkeeper/images/morph-shape-gif-preloader.gif") center no-repeat;
       background-size: auto 15px; }
   .product_layout_2 .product_content_wrapper .mobile_gallery_thumbs {
     height: 100px;
@@ -26114,7 +26114,7 @@ p.woocommerce-error {
       vertical-align: middle;
       margin-bottom: 25px; }
       .product_layout_3 .product_content_wrapper .product-images-wrapper .product_images .product-image .easyzoom.el_zoom img {
-        cursor: url(http://www.damontian.com/wordpress-serenity/wp-content/themes/shopkeeper/images/cursor-zoom.png), auto; }
+        cursor: url(https://damontian1.github.io/wordpress-serenity/wp-content/themes/shopkeeper/images/cursor-zoom.png), auto; }
       .product_layout_3 .product_content_wrapper .product-images-wrapper .product_images .product-image.mobile {
         display: none; }
       .product_layout_3 .product_content_wrapper .product-images-wrapper .product_images .product-image .desktop-image {
@@ -26197,7 +26197,7 @@ p.woocommerce-error {
       content: "";
       height: 100%;
       width: 100%;
-      background: url("http://www.damontian.com/wordpress-serenity/wp-content/themes/shopkeeper/images/morph-shape-gif-preloader.gif") center no-repeat;
+      background: url("https://damontian1.github.io/wordpress-serenity/wp-content/themes/shopkeeper/images/morph-shape-gif-preloader.gif") center no-repeat;
       background-size: auto 15px; }
   .product_layout_3 .product_content_wrapper .mobile_gallery_thumbs {
     height: 100px;
@@ -27085,7 +27085,7 @@ p.woocommerce-error {
         .product_layout_4 .product_content_wrapper .product-images-wrapper .product-images-style-4.images .product-image {
           width: 100%; }
           .product_layout_4 .product_content_wrapper .product-images-wrapper .product-images-style-4.images .product-image img {
-            cursor: url(http://www.damontian.com/wordpress-serenity/wp-content/themes/shopkeeper/images/cursor-zoom.png), auto; }
+            cursor: url(https://damontian1.github.io/wordpress-serenity/wp-content/themes/shopkeeper/images/cursor-zoom.png), auto; }
       .product_layout_4 .product_content_wrapper .product-images-wrapper .product-images-style-4 .product_images {
         font-size: 0; }
         .product_layout_4 .product_content_wrapper .product-images-wrapper .product-images-style-4 .product_images > .product-image {
@@ -27095,7 +27095,7 @@ p.woocommerce-error {
           text-align: center;
           width: 60%; }
           .product_layout_4 .product_content_wrapper .product-images-wrapper .product-images-style-4 .product_images > .product-image .easyzoom.el_zoom img {
-            cursor: url(http://www.damontian.com/wordpress-serenity/wp-content/themes/shopkeeper/images/cursor-zoom.png), auto; }
+            cursor: url(https://damontian1.github.io/wordpress-serenity/wp-content/themes/shopkeeper/images/cursor-zoom.png), auto; }
           @media screen and (min-width: 1024px) {
             .product_layout_4 .product_content_wrapper .product-images-wrapper .product-images-style-4 .product_images > .product-image {
               padding: 0 30px;
@@ -27154,7 +27154,7 @@ p.woocommerce-error {
       content: "";
       height: 100%;
       width: 100%;
-      background: url("http://www.damontian.com/wordpress-serenity/wp-content/themes/shopkeeper/images/morph-shape-gif-preloader.gif") center no-repeat;
+      background: url("https://damontian1.github.io/wordpress-serenity/wp-content/themes/shopkeeper/images/morph-shape-gif-preloader.gif") center no-repeat;
       background-size: auto 15px; }
   .product_layout_4 .product_content_wrapper .mobile_gallery_thumbs {
     height: 100px;
@@ -28430,7 +28430,7 @@ p.woocommerce-error {
   display: inline-block;
   width: 50px;
   height: 16px;
-  background: url("http://www.damontian.com/wordpress-serenity/wp-content/themes/shopkeeper/images/morph-shape-gif-preloader.gif") center no-repeat;
+  background: url("https://damontian1.github.io/wordpress-serenity/wp-content/themes/shopkeeper/images/morph-shape-gif-preloader.gif") center no-repeat;
   background-size: auto 15px;
   vertical-align: top;
   position: relative;

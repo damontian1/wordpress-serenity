@@ -10,7 +10,7 @@
 <channel>
 	<title>Products &#8211; Serenity</title>
 	<atom:link href="http://localhost/serenity/shop/feed/" rel="self" type="application/rss+xml" />
-	<link>http://www.damontian.com/wordpress-serenity</link>
+	<link>https://damontian1.github.io/wordpress-serenity</link>
 	<description>Love Gives Life Within - Modern stylish clothes for people who love to live.</description>
 	<lastBuildDate>Thu, 10 Aug 2017 05:25:24 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -19,20 +19,20 @@
 	<generator>https://wordpress.org/?v=4.8.1</generator>
 
 <image>
-	<url>http://www.damontian.com/wordpress-serenity/wp-content/uploads/2017/08/favicon.png</url>
+	<url>https://damontian1.github.io/wordpress-serenity/wp-content/uploads/2017/08/favicon.png</url>
 	<title>Products &#8211; Serenity</title>
-	<link>http://www.damontian.com/wordpress-serenity</link>
+	<link>https://damontian1.github.io/wordpress-serenity</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>The Cashmere Crop Mockneck</title>
-		<link>http://www.damontian.com/wordpress-serenity/product/the-cashmere-crop-mockneck/</link>
-		<comments>http://www.damontian.com/wordpress-serenity/product/the-cashmere-crop-mockneck/#respond</comments>
+		<link>https://damontian1.github.io/wordpress-serenity/product/the-cashmere-crop-mockneck/</link>
+		<comments>https://damontian1.github.io/wordpress-serenity/product/the-cashmere-crop-mockneck/#respond</comments>
 		<pubDate>Fri, 04 Aug 2017 08:09:13 +0000</pubDate>
 		<dc:creator><![CDATA[killahb308]]></dc:creator>
 		
-		<guid isPermaLink="false">http://www.damontian.com/wordpress-serenity/?post_type=product&#038;p=21</guid>
+		<guid isPermaLink="false">https://damontian1.github.io/wordpress-serenity/?post_type=product&#038;p=21</guid>
 		<description><![CDATA[This Grade-A cashmere mockneck is slightly oversized, with a relaxed but playful cropped cut that we love. It looks especially great with high-waisted pants.]]></description>
 				<content:encoded><![CDATA[<ul class="product-details__container">
 <li class="product-details__item product-details__item--model">Model is 5′10″<span class="product-details__divider">Wearing size S</span></li>
@@ -42,17 +42,17 @@
 <li class="product-details__item product-details__item--factory">Made in Dongguan, China</li>
 </ul>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.damontian.com/wordpress-serenity/product/the-cashmere-crop-mockneck/feed/</wfw:commentRss>
+			<wfw:commentRss>https://damontian1.github.io/wordpress-serenity/product/the-cashmere-crop-mockneck/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>The Cashmere Hoodie</title>
-		<link>http://www.damontian.com/wordpress-serenity/product/the-cashmere-hoodie/</link>
-		<comments>http://www.damontian.com/wordpress-serenity/product/the-cashmere-hoodie/#respond</comments>
+		<link>https://damontian1.github.io/wordpress-serenity/product/the-cashmere-hoodie/</link>
+		<comments>https://damontian1.github.io/wordpress-serenity/product/the-cashmere-hoodie/#respond</comments>
 		<pubDate>Tue, 08 Aug 2017 18:41:39 +0000</pubDate>
 		<dc:creator><![CDATA[killahb308]]></dc:creator>
 		
-		<guid isPermaLink="false">http://www.damontian.com/wordpress-serenity/?post_type=product&#038;p=175</guid>
+		<guid isPermaLink="false">https://damontian1.github.io/wordpress-serenity/?post_type=product&#038;p=175</guid>
 		<description><![CDATA[Warm, soft, lightweight, and just the right amount of unexpected—this cashmere hoodie is guaranteed to be a favorite.]]></description>
 				<content:encoded><![CDATA[<ul class="product-details__container">
 <li class="product-details__item product-details__item--model">Model is 6′1″<span class="product-details__divider">Wearing size M</span></li>
@@ -62,17 +62,17 @@
 <li class="product-details__item product-details__item--factory">Made in Dongguan, China</li>
 </ul>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.damontian.com/wordpress-serenity/product/the-cashmere-hoodie/feed/</wfw:commentRss>
+			<wfw:commentRss>https://damontian1.github.io/wordpress-serenity/product/the-cashmere-hoodie/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>The Cashmere V-Neck</title>
-		<link>http://www.damontian.com/wordpress-serenity/product/the-cashmere-v-neck/</link>
-		<comments>http://www.damontian.com/wordpress-serenity/product/the-cashmere-v-neck/#respond</comments>
+		<link>https://damontian1.github.io/wordpress-serenity/product/the-cashmere-v-neck/</link>
+		<comments>https://damontian1.github.io/wordpress-serenity/product/the-cashmere-v-neck/#respond</comments>
 		<pubDate>Tue, 08 Aug 2017 18:37:59 +0000</pubDate>
 		<dc:creator><![CDATA[killahb308]]></dc:creator>
 		
-		<guid isPermaLink="false">http://www.damontian.com/wordpress-serenity/?post_type=product&#038;p=166</guid>
+		<guid isPermaLink="false">https://damontian1.github.io/wordpress-serenity/?post_type=product&#038;p=166</guid>
 		<description><![CDATA[Warm, soft, lightweight, and timeless—this is the cashmere v-neck you reach for multiple times a week.]]></description>
 				<content:encoded><![CDATA[<ul class="product-details__container">
 <li class="product-details__item product-details__item--model">Model is 6′1″ &#8211; <span class="product-details__divider">Wearing size M</span></li>
@@ -82,17 +82,17 @@
 <li class="product-details__item product-details__item--factory">Made in Dongguan, China</li>
 </ul>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.damontian.com/wordpress-serenity/product/the-cashmere-v-neck/feed/</wfw:commentRss>
+			<wfw:commentRss>https://damontian1.github.io/wordpress-serenity/product/the-cashmere-v-neck/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>The Classic French Terry Sweatpant</title>
-		<link>http://www.damontian.com/wordpress-serenity/product/the-classic-french-terry-sweatpant/</link>
-		<comments>http://www.damontian.com/wordpress-serenity/product/the-classic-french-terry-sweatpant/#respond</comments>
+		<link>https://damontian1.github.io/wordpress-serenity/product/the-classic-french-terry-sweatpant/</link>
+		<comments>https://damontian1.github.io/wordpress-serenity/product/the-classic-french-terry-sweatpant/#respond</comments>
 		<pubDate>Tue, 08 Aug 2017 17:50:08 +0000</pubDate>
 		<dc:creator><![CDATA[killahb308]]></dc:creator>
 		
-		<guid isPermaLink="false">http://www.damontian.com/wordpress-serenity/?post_type=product&#038;p=121</guid>
+		<guid isPermaLink="false">https://damontian1.github.io/wordpress-serenity/?post_type=product&#038;p=121</guid>
 		<description><![CDATA[A better sweatpant. We looked to classic sportswear to created this French terry essential, with an easy straight fit and ribbed ankle cuffs. Wear it to the track, the gym, or that store that sells ice cream late.]]></description>
 				<content:encoded><![CDATA[<ul class="product-details__container">
 <li class="product-details__item product-details__item--model">Model is 5′10″ &#8211; <span class="product-details__divider">Wearing size S</span></li>
@@ -100,17 +100,17 @@
 <li class="product-details__item product-details__item--factory">Made in Ho Chi Minh City, Vietnam</li>
 </ul>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.damontian.com/wordpress-serenity/product/the-classic-french-terry-sweatpant/feed/</wfw:commentRss>
+			<wfw:commentRss>https://damontian1.github.io/wordpress-serenity/product/the-classic-french-terry-sweatpant/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>The GoWeave Crop Trouser</title>
-		<link>http://www.damontian.com/wordpress-serenity/product/the-goweave-crop-trouser/</link>
-		<comments>http://www.damontian.com/wordpress-serenity/product/the-goweave-crop-trouser/#respond</comments>
+		<link>https://damontian1.github.io/wordpress-serenity/product/the-goweave-crop-trouser/</link>
+		<comments>https://damontian1.github.io/wordpress-serenity/product/the-goweave-crop-trouser/#respond</comments>
 		<pubDate>Tue, 08 Aug 2017 18:00:34 +0000</pubDate>
 		<dc:creator><![CDATA[killahb308]]></dc:creator>
 		
-		<guid isPermaLink="false">http://www.damontian.com/wordpress-serenity/?post_type=product&#038;p=131</guid>
+		<guid isPermaLink="false">https://damontian1.github.io/wordpress-serenity/?post_type=product&#038;p=131</guid>
 		<description><![CDATA[Polished yet comfortable, this will be the pant you’re always reaching for. GoWeave™ yarn is tightly spun in Italy, creating a wool twill that is wrinkle-resistant and astonishingly smooth. It's a mid rise trouser, sitting right at the waist. It's slim through the hip and thigh, with a straight leg that hits right above the ankle. The trouser features a fully-constructed waistband, full-length front seam, two front side pockets, two back pockets, and is unlined.]]></description>
 				<content:encoded><![CDATA[<ul class="product-details__container">
 <li class="product-details__item product-details__item--model">Model is 5′10″ &#8211; <span class="product-details__divider">Wearing size 2</span></li>
@@ -119,17 +119,17 @@
 <li class="product-details__item product-details__item--factory">Made in Suzhou, China</li>
 </ul>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.damontian.com/wordpress-serenity/product/the-goweave-crop-trouser/feed/</wfw:commentRss>
+			<wfw:commentRss>https://damontian1.github.io/wordpress-serenity/product/the-goweave-crop-trouser/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>The Modern Twill Single Snap Backpack</title>
-		<link>http://www.damontian.com/wordpress-serenity/product/the-modern-twill-single-snap-backpack/</link>
-		<comments>http://www.damontian.com/wordpress-serenity/product/the-modern-twill-single-snap-backpack/#respond</comments>
+		<link>https://damontian1.github.io/wordpress-serenity/product/the-modern-twill-single-snap-backpack/</link>
+		<comments>https://damontian1.github.io/wordpress-serenity/product/the-modern-twill-single-snap-backpack/#respond</comments>
 		<pubDate>Tue, 08 Aug 2017 19:01:34 +0000</pubDate>
 		<dc:creator><![CDATA[killahb308]]></dc:creator>
 		
-		<guid isPermaLink="false">http://www.damontian.com/wordpress-serenity/?post_type=product&#038;p=197</guid>
+		<guid isPermaLink="false">https://damontian1.github.io/wordpress-serenity/?post_type=product&#038;p=197</guid>
 		<description><![CDATA[<ul>
  	<li>11 1/2" L x 5 1/2" W x 16 1/2" H</li>
  	<li>100% cotton - <span class="product-details__divider">Spot clean only</span></li>
@@ -138,17 +138,17 @@
 </ul>]]></description>
 				<content:encoded><![CDATA[<p>An updated take on our best-selling backpack. Designed with a new cinch-top closure and a slim front pocket, it has all the same function—just a little less bulk.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.damontian.com/wordpress-serenity/product/the-modern-twill-single-snap-backpack/feed/</wfw:commentRss>
+			<wfw:commentRss>https://damontian1.github.io/wordpress-serenity/product/the-modern-twill-single-snap-backpack/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>The Nylon Weekender</title>
-		<link>http://www.damontian.com/wordpress-serenity/product/the-nylon-weekender/</link>
-		<comments>http://www.damontian.com/wordpress-serenity/product/the-nylon-weekender/#respond</comments>
+		<link>https://damontian1.github.io/wordpress-serenity/product/the-nylon-weekender/</link>
+		<comments>https://damontian1.github.io/wordpress-serenity/product/the-nylon-weekender/#respond</comments>
 		<pubDate>Tue, 08 Aug 2017 19:09:05 +0000</pubDate>
 		<dc:creator><![CDATA[killahb308]]></dc:creator>
 		
-		<guid isPermaLink="false">http://www.damontian.com/wordpress-serenity/?post_type=product&#038;p=208</guid>
+		<guid isPermaLink="false">https://damontian1.github.io/wordpress-serenity/?post_type=product&#038;p=208</guid>
 		<description><![CDATA[<ul class="product-details__container">
  	<li class="product-details__item product-details__item--fit"><span class="product-details__block">19 3/4” L x 13 1/4” H x 9 1/2” W - </span><span class="product-details__block">45L capacity - </span><span class="product-details__block">Carry-on approved</span></li>
  	<li class="product-details__item product-details__item--fabric">68% nylon, 32% polyester; lightweight, durable, and water-resistant, with a waterproof  - TPE backing<span class="product-details__block">Spot clean as needed</span></li>
@@ -157,17 +157,17 @@
 </ul>]]></description>
 				<content:encoded><![CDATA[<p>A better weekend bag. Made of durable nylon bonded with a TPE backing for water resistance, and complete with bonded and taped zippers for extra weather protection. Form, meet function.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.damontian.com/wordpress-serenity/product/the-nylon-weekender/feed/</wfw:commentRss>
+			<wfw:commentRss>https://damontian1.github.io/wordpress-serenity/product/the-nylon-weekender/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>The Petra Backpack</title>
-		<link>http://www.damontian.com/wordpress-serenity/product/the-petra-backpack/</link>
-		<comments>http://www.damontian.com/wordpress-serenity/product/the-petra-backpack/#respond</comments>
+		<link>https://damontian1.github.io/wordpress-serenity/product/the-petra-backpack/</link>
+		<comments>https://damontian1.github.io/wordpress-serenity/product/the-petra-backpack/#respond</comments>
 		<pubDate>Tue, 08 Aug 2017 18:20:10 +0000</pubDate>
 		<dc:creator><![CDATA[killahb308]]></dc:creator>
 		
-		<guid isPermaLink="false">http://www.damontian.com/wordpress-serenity/?post_type=product&#038;p=148</guid>
+		<guid isPermaLink="false">https://damontian1.github.io/wordpress-serenity/?post_type=product&#038;p=148</guid>
 		<description><![CDATA[Ease meets elegance with this new luxury backpack. It features ultrasuede lining, feet to protect the bag's base, a hidden loop for secure closure, an interior snap pocket, and a top handle for easy carry by hand. There is gunmetal-finish hardware on the leather drawstrings and at the feet.]]></description>
 				<content:encoded><![CDATA[<ul class="product-details__container">
 <li class="product-details__item product-details__item--fit"><span class="product-details__block">9” W × 5.5” D × 10.5” H</span><span class="product-details__block">27” &#8211; Strap length, adjustable to 27 1/2&#8243;</span><span class="product-details__block">4&#8243; &#8211; Top handle drop</span></li>
@@ -176,17 +176,17 @@
 <li class="product-details__item product-details__item--factory">Made in Vicenza, Italy</li>
 </ul>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.damontian.com/wordpress-serenity/product/the-petra-backpack/feed/</wfw:commentRss>
+			<wfw:commentRss>https://damontian1.github.io/wordpress-serenity/product/the-petra-backpack/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>The Petra Magazine</title>
-		<link>http://www.damontian.com/wordpress-serenity/product/the-twill-zip-tote/</link>
-		<comments>http://www.damontian.com/wordpress-serenity/product/the-twill-zip-tote/#respond</comments>
+		<link>https://damontian1.github.io/wordpress-serenity/product/the-twill-zip-tote/</link>
+		<comments>https://damontian1.github.io/wordpress-serenity/product/the-twill-zip-tote/#respond</comments>
 		<pubDate>Tue, 08 Aug 2017 18:11:34 +0000</pubDate>
 		<dc:creator><![CDATA[killahb308]]></dc:creator>
 		
-		<guid isPermaLink="false">http://www.damontian.com/wordpress-serenity/?post_type=product&#038;p=141</guid>
+		<guid isPermaLink="false">https://damontian1.github.io/wordpress-serenity/?post_type=product&#038;p=141</guid>
 		<description><![CDATA[An elegant take on the go-everywhere tote. It features tonal ultrasuede lining, two canvas pockets with snap closures, and polished chrome hardware at straps and feet.]]></description>
 				<content:encoded><![CDATA[<ul class="product-details__container">
 <li class="product-details__item product-details__item--fit"><span class="product-details__block">5.5&#8243; W Top, 11&#8243; W Bottom, 14&#8243; H &#8211; </span><span class="product-details__block">Handle Drop: 9&#8243;, adjustable by 2&#8243;</span></li>
@@ -194,17 +194,17 @@
 <li class="product-details__item product-details__item--factory">Made in Vicenza, Italy</li>
 </ul>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.damontian.com/wordpress-serenity/product/the-twill-zip-tote/feed/</wfw:commentRss>
+			<wfw:commentRss>https://damontian1.github.io/wordpress-serenity/product/the-twill-zip-tote/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>The Slim Fit Pant</title>
-		<link>http://www.damontian.com/wordpress-serenity/product/the-slim-fit-pant/</link>
-		<comments>http://www.damontian.com/wordpress-serenity/product/the-slim-fit-pant/#respond</comments>
+		<link>https://damontian1.github.io/wordpress-serenity/product/the-slim-fit-pant/</link>
+		<comments>https://damontian1.github.io/wordpress-serenity/product/the-slim-fit-pant/#respond</comments>
 		<pubDate>Tue, 08 Aug 2017 18:51:16 +0000</pubDate>
 		<dc:creator><![CDATA[killahb308]]></dc:creator>
 		
-		<guid isPermaLink="false">http://www.damontian.com/wordpress-serenity/?post_type=product&#038;p=179</guid>
+		<guid isPermaLink="false">https://damontian1.github.io/wordpress-serenity/?post_type=product&#038;p=179</guid>
 		<description><![CDATA[Slim fit with a slightly longer rise for a less conservative look. It features two front slant pockets, two back single welt pockets, and button closure at the waist with a zip fly. The fabric is a constructed breathable cotton weave with a slight 2-way stretch for comfort in motion.]]></description>
 				<content:encoded><![CDATA[<ul class="product-details__container">
 <li class="product-details__item product-details__item--model">Model is 6′1″ &#8211; <span class="product-details__divider">Wearing size 32</span></li>
@@ -213,7 +213,7 @@
 <li class="product-details__item product-details__item--factory">Made in Dongguan, China</li>
 </ul>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.damontian.com/wordpress-serenity/product/the-slim-fit-pant/feed/</wfw:commentRss>
+			<wfw:commentRss>https://damontian1.github.io/wordpress-serenity/product/the-slim-fit-pant/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 	</channel>
