@@ -915,14 +915,14 @@
 .fr-window-skin-fresco .fr-close-icon,
 .fr-window-skin-fresco .fr-thumbnails-side-button-icon,
 .fr-window-skin-fresco .fr-error-icon {
-  background-image: url('https://damontian1.github.io/wordpress-serenity/wp-content/themes/shopkeeper/css/fresco/skins/fresco/sprite.svg');
+  background-image: url('http://damontian.com/wordpress-serenity/wp-content/themes/shopkeeper/css/fresco/skins/fresco/sprite.svg');
 }
 /* fallback png sprite */
 .fr-window-skin-fresco.fr-no-svg .fr-side-button-icon,
 .fr-window-skin-fresco.fr-no-svg .fr-close-icon,
 .fr-window-skin-fresco.fr-no-svg .fr-thumbnails-side-button-icon,
 .fr-window-skin-fresco .fr-error-icon {
-  background-image: url('https://damontian1.github.io/wordpress-serenity/wp-content/themes/shopkeeper/css/fresco/skins/fresco/sprite.png');
+  background-image: url('http://damontian.com/wordpress-serenity/wp-content/themes/shopkeeper/css/fresco/skins/fresco/sprite.png');
 }
 
 .fr-window-skin-fresco .fr-error-icon { background-position: -160px -126px; }

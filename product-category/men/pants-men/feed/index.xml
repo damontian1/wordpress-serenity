@@ -10,7 +10,7 @@
 <channel>
 	<title>Pants &#8211; Serenity</title>
 	<atom:link href="http://localhost/serenity/product-category/men/pants-men/feed/" rel="self" type="application/rss+xml" />
-	<link>https://damontian1.github.io/wordpress-serenity</link>
+	<link>http://damontian.com/wordpress-serenity</link>
 	<description>Love Gives Life Within - Modern stylish clothes for people who love to live.</description>
 	<lastBuildDate>Thu, 10 Aug 2017 05:25:24 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -19,20 +19,20 @@
 	<generator>https://wordpress.org/?v=4.8.1</generator>
 
 <image>
-	<url>https://damontian1.github.io/wordpress-serenity/wp-content/uploads/2017/08/favicon.png</url>
+	<url>http://damontian.com/wordpress-serenity/wp-content/uploads/2017/08/favicon.png</url>
 	<title>Pants &#8211; Serenity</title>
-	<link>https://damontian1.github.io/wordpress-serenity</link>
+	<link>http://damontian.com/wordpress-serenity</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>The Slim Fit Pant</title>
-		<link>https://damontian1.github.io/wordpress-serenity/product/the-slim-fit-pant/</link>
-		<comments>https://damontian1.github.io/wordpress-serenity/product/the-slim-fit-pant/#respond</comments>
+		<link>http://damontian.com/wordpress-serenity/product/the-slim-fit-pant/</link>
+		<comments>http://damontian.com/wordpress-serenity/product/the-slim-fit-pant/#respond</comments>
 		<pubDate>Tue, 08 Aug 2017 18:51:16 +0000</pubDate>
 		<dc:creator><![CDATA[killahb308]]></dc:creator>
 		
-		<guid isPermaLink="false">https://damontian1.github.io/wordpress-serenity/?post_type=product&#038;p=179</guid>
+		<guid isPermaLink="false">http://damontian.com/wordpress-serenity/?post_type=product&#038;p=179</guid>
 		<description><![CDATA[Slim fit with a slightly longer rise for a less conservative look. It features two front slant pockets, two back single welt pockets, and button closure at the waist with a zip fly. The fabric is a constructed breathable cotton weave with a slight 2-way stretch for comfort in motion.]]></description>
 				<content:encoded><![CDATA[<ul class="product-details__container">
 <li class="product-details__item product-details__item--model">Model is 6′1″ &#8211; <span class="product-details__divider">Wearing size 32</span></li>
@@ -41,17 +41,17 @@
 <li class="product-details__item product-details__item--factory">Made in Dongguan, China</li>
 </ul>
 ]]></content:encoded>
-			<wfw:commentRss>https://damontian1.github.io/wordpress-serenity/product/the-slim-fit-pant/feed/</wfw:commentRss>
+			<wfw:commentRss>http://damontian.com/wordpress-serenity/product/the-slim-fit-pant/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>The Travel Pant</title>
-		<link>https://damontian1.github.io/wordpress-serenity/product/the-travel-pant/</link>
-		<comments>https://damontian1.github.io/wordpress-serenity/product/the-travel-pant/#respond</comments>
+		<link>http://damontian.com/wordpress-serenity/product/the-travel-pant/</link>
+		<comments>http://damontian.com/wordpress-serenity/product/the-travel-pant/#respond</comments>
 		<pubDate>Tue, 08 Aug 2017 18:56:05 +0000</pubDate>
 		<dc:creator><![CDATA[killahb308]]></dc:creator>
 		
-		<guid isPermaLink="false">https://damontian1.github.io/wordpress-serenity/?post_type=product&#038;p=188</guid>
+		<guid isPermaLink="false">http://damontian.com/wordpress-serenity/?post_type=product&#038;p=188</guid>
 		<description><![CDATA[Pants designed to go places. We made our Travel Pant in lightweight 4.2oz cotton poplin with ample 4% stretch that really moves with you, but with classic 4-pocket trouser styling that looks good anywhere you take it. No need to wear sweatpants on your next flight.]]></description>
 				<content:encoded><![CDATA[<ul class="product-details__container">
 <li class="product-details__item product-details__item--model">Model is 6′1″ &#8211; <span class="product-details__divider">Wearing size 31</span></li>
@@ -60,7 +60,7 @@
 <li class="product-details__item product-details__item--factory">Made in Jiangmen, China</li>
 </ul>
 ]]></content:encoded>
-			<wfw:commentRss>https://damontian1.github.io/wordpress-serenity/product/the-travel-pant/feed/</wfw:commentRss>
+			<wfw:commentRss>http://damontian.com/wordpress-serenity/product/the-travel-pant/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 	</channel>
