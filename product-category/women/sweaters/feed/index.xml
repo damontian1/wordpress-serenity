@@ -10,7 +10,7 @@
 <channel>
 	<title>Sweaters &#8211; Serenity</title>
 	<atom:link href="http://localhost/serenity/product-category/women/sweaters/feed/" rel="self" type="application/rss+xml" />
-	<link>http://damontian.com/wordpress-serenity</link>
+	<link>https://www.damontian.com/wordpress-serenity</link>
 	<description>Love Gives Life Within - Modern stylish clothes for people who love to live.</description>
 	<lastBuildDate>Thu, 10 Aug 2017 05:25:24 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -19,20 +19,20 @@
 	<generator>https://wordpress.org/?v=4.8.1</generator>
 
 <image>
-	<url>http://damontian.com/wordpress-serenity/wp-content/uploads/2017/08/favicon.png</url>
+	<url>https://www.damontian.com/wordpress-serenity/wp-content/uploads/2017/08/favicon.png</url>
 	<title>Sweaters &#8211; Serenity</title>
-	<link>http://damontian.com/wordpress-serenity</link>
+	<link>https://www.damontian.com/wordpress-serenity</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>The Cashmere Crop Mockneck</title>
-		<link>http://damontian.com/wordpress-serenity/product/the-cashmere-crop-mockneck/</link>
-		<comments>http://damontian.com/wordpress-serenity/product/the-cashmere-crop-mockneck/#respond</comments>
+		<link>https://www.damontian.com/wordpress-serenity/product/the-cashmere-crop-mockneck/</link>
+		<comments>https://www.damontian.com/wordpress-serenity/product/the-cashmere-crop-mockneck/#respond</comments>
 		<pubDate>Fri, 04 Aug 2017 08:09:13 +0000</pubDate>
 		<dc:creator><![CDATA[killahb308]]></dc:creator>
 		
-		<guid isPermaLink="false">http://damontian.com/wordpress-serenity/?post_type=product&#038;p=21</guid>
+		<guid isPermaLink="false">https://www.damontian.com/wordpress-serenity/?post_type=product&#038;p=21</guid>
 		<description><![CDATA[This Grade-A cashmere mockneck is slightly oversized, with a relaxed but playful cropped cut that we love. It looks especially great with high-waisted pants.]]></description>
 				<content:encoded><![CDATA[<ul class="product-details__container">
 <li class="product-details__item product-details__item--model">Model is 5′10″<span class="product-details__divider">Wearing size S</span></li>
@@ -42,17 +42,17 @@
 <li class="product-details__item product-details__item--factory">Made in Dongguan, China</li>
 </ul>
 ]]></content:encoded>
-			<wfw:commentRss>http://damontian.com/wordpress-serenity/product/the-cashmere-crop-mockneck/feed/</wfw:commentRss>
+			<wfw:commentRss>https://www.damontian.com/wordpress-serenity/product/the-cashmere-crop-mockneck/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>The Soft Cotton Square Crew</title>
-		<link>http://damontian.com/wordpress-serenity/product/the-soft-cotton-square-crew/</link>
-		<comments>http://damontian.com/wordpress-serenity/product/the-soft-cotton-square-crew/#respond</comments>
+		<link>https://www.damontian.com/wordpress-serenity/product/the-soft-cotton-square-crew/</link>
+		<comments>https://www.damontian.com/wordpress-serenity/product/the-soft-cotton-square-crew/#respond</comments>
 		<pubDate>Fri, 04 Aug 2017 08:35:09 +0000</pubDate>
 		<dc:creator><![CDATA[killahb308]]></dc:creator>
 		
-		<guid isPermaLink="false">http://damontian.com/wordpress-serenity/?post_type=product&#038;p=35</guid>
+		<guid isPermaLink="false">https://www.damontian.com/wordpress-serenity/?post_type=product&#038;p=35</guid>
 		<description><![CDATA[The year-round layer. Our easy cotton sweater has an oversized cropped fit and elegant drape, so you can pair it with pretty much everything in your closet.]]></description>
 				<content:encoded><![CDATA[<ul class="product-details__container">
 <li class="product-details__item product-details__item--model">Model is 5′10″<span class="product-details__divider">Wearing size S</span></li>
@@ -61,7 +61,7 @@
 <li class="product-details__item product-details__item--factory">Made in Dongguan, China</li>
 </ul>
 ]]></content:encoded>
-			<wfw:commentRss>http://damontian.com/wordpress-serenity/product/the-soft-cotton-square-crew/feed/</wfw:commentRss>
+			<wfw:commentRss>https://www.damontian.com/wordpress-serenity/product/the-soft-cotton-square-crew/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 	</channel>

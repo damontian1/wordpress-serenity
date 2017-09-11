@@ -10,7 +10,7 @@
 <channel>
 	<title>Sweaters &#8211; Serenity</title>
 	<atom:link href="http://localhost/serenity/product-category/men/sweaters-men/feed/" rel="self" type="application/rss+xml" />
-	<link>http://damontian.com/wordpress-serenity</link>
+	<link>https://www.damontian.com/wordpress-serenity</link>
 	<description>Love Gives Life Within - Modern stylish clothes for people who love to live.</description>
 	<lastBuildDate>Thu, 10 Aug 2017 05:25:24 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -19,20 +19,20 @@
 	<generator>https://wordpress.org/?v=4.8.1</generator>
 
 <image>
-	<url>http://damontian.com/wordpress-serenity/wp-content/uploads/2017/08/favicon.png</url>
+	<url>https://www.damontian.com/wordpress-serenity/wp-content/uploads/2017/08/favicon.png</url>
 	<title>Sweaters &#8211; Serenity</title>
-	<link>http://damontian.com/wordpress-serenity</link>
+	<link>https://www.damontian.com/wordpress-serenity</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>The Cashmere Hoodie</title>
-		<link>http://damontian.com/wordpress-serenity/product/the-cashmere-hoodie/</link>
-		<comments>http://damontian.com/wordpress-serenity/product/the-cashmere-hoodie/#respond</comments>
+		<link>https://www.damontian.com/wordpress-serenity/product/the-cashmere-hoodie/</link>
+		<comments>https://www.damontian.com/wordpress-serenity/product/the-cashmere-hoodie/#respond</comments>
 		<pubDate>Tue, 08 Aug 2017 18:41:39 +0000</pubDate>
 		<dc:creator><![CDATA[killahb308]]></dc:creator>
 		
-		<guid isPermaLink="false">http://damontian.com/wordpress-serenity/?post_type=product&#038;p=175</guid>
+		<guid isPermaLink="false">https://www.damontian.com/wordpress-serenity/?post_type=product&#038;p=175</guid>
 		<description><![CDATA[Warm, soft, lightweight, and just the right amount of unexpected—this cashmere hoodie is guaranteed to be a favorite.]]></description>
 				<content:encoded><![CDATA[<ul class="product-details__container">
 <li class="product-details__item product-details__item--model">Model is 6′1″<span class="product-details__divider">Wearing size M</span></li>
@@ -42,17 +42,17 @@
 <li class="product-details__item product-details__item--factory">Made in Dongguan, China</li>
 </ul>
 ]]></content:encoded>
-			<wfw:commentRss>http://damontian.com/wordpress-serenity/product/the-cashmere-hoodie/feed/</wfw:commentRss>
+			<wfw:commentRss>https://www.damontian.com/wordpress-serenity/product/the-cashmere-hoodie/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>The Cashmere V-Neck</title>
-		<link>http://damontian.com/wordpress-serenity/product/the-cashmere-v-neck/</link>
-		<comments>http://damontian.com/wordpress-serenity/product/the-cashmere-v-neck/#respond</comments>
+		<link>https://www.damontian.com/wordpress-serenity/product/the-cashmere-v-neck/</link>
+		<comments>https://www.damontian.com/wordpress-serenity/product/the-cashmere-v-neck/#respond</comments>
 		<pubDate>Tue, 08 Aug 2017 18:37:59 +0000</pubDate>
 		<dc:creator><![CDATA[killahb308]]></dc:creator>
 		
-		<guid isPermaLink="false">http://damontian.com/wordpress-serenity/?post_type=product&#038;p=166</guid>
+		<guid isPermaLink="false">https://www.damontian.com/wordpress-serenity/?post_type=product&#038;p=166</guid>
 		<description><![CDATA[Warm, soft, lightweight, and timeless—this is the cashmere v-neck you reach for multiple times a week.]]></description>
 				<content:encoded><![CDATA[<ul class="product-details__container">
 <li class="product-details__item product-details__item--model">Model is 6′1″ &#8211; <span class="product-details__divider">Wearing size M</span></li>
@@ -62,7 +62,7 @@
 <li class="product-details__item product-details__item--factory">Made in Dongguan, China</li>
 </ul>
 ]]></content:encoded>
-			<wfw:commentRss>http://damontian.com/wordpress-serenity/product/the-cashmere-v-neck/feed/</wfw:commentRss>
+			<wfw:commentRss>https://www.damontian.com/wordpress-serenity/product/the-cashmere-v-neck/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 	</channel>
