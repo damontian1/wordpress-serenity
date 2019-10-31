@@ -1,0 +1,9 @@
+version: '3'
+services:
+  app:
+    image: php:5.5-apache
+    entrypoint: bash -c "a2enmod rewrite && apachectl -D FOREGROUND"
+    volumes:
+      - .:/var/www/html/
+    ports:
+      - '9000:80'
