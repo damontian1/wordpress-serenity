@@ -3,12 +3,12 @@
 	xmlns:dc="http://purl.org/dc/elements/1.1/"
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-	
+
 	>
 <channel>
 	<title>Comments on: The Soft Cotton Square Crew</title>
 	<atom:link href="http://localhost/serenity/product/the-soft-cotton-square-crew/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.damontian.com/wordpress-serenity/product/the-soft-cotton-square-crew/</link>
+	<link>https://damontian1.github.io/wordpress-serenity/product/the-soft-cotton-square-crew/</link>
 	<description>Love Gives Life Within - Modern stylish clothes for people who love to live.</description>
 	<lastBuildDate>Mon, 11 Sep 2017 15:29:39 +0000</lastBuildDate>
 	<sy:updatePeriod>hourly</sy:updatePeriod>

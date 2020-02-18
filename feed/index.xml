@@ -10,7 +10,7 @@
 <channel>
 	<title>Serenity</title>
 	<atom:link href="http://localhost/serenity/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.damontian.com/wordpress-serenity</link>
+	<link>https://damontian1.github.io/wordpress-serenity</link>
 	<description>Love Gives Life Within - Modern stylish clothes for people who love to live.</description>
 	<lastBuildDate>Thu, 10 Aug 2017 05:25:24 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -19,11 +19,11 @@
 	<generator>https://wordpress.org/?v=4.8.1</generator>
 
 <image>
-	<url>https://www.damontian.com/wordpress-serenity/wp-content/uploads/2017/08/favicon.png</url>
+	<url>https://damontian1.github.io/wordpress-serenity/wp-content/uploads/2017/08/favicon.png</url>
 	<title>Serenity</title>
-	<link>https://www.damontian.com/wordpress-serenity</link>
+	<link>https://damontian1.github.io/wordpress-serenity</link>
 	<width>32</width>
 	<height>32</height>
-</image> 
+</image>
 </channel>
 </rss>

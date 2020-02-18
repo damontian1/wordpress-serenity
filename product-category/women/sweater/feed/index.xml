@@ -10,7 +10,7 @@
 <channel>
 	<title>Sweater &#8211; serenity</title>
 	<atom:link href="http://localhost/serenity/product-category/women/sweater/feed/" rel="self" type="application/rss+xml" />
-	<link>http://www.damontian.com/wordpress-serenity</link>
+	<link>http://damontian1.github.io/wordpress-serenity</link>
 	<description>Just another WordPress site</description>
 	<lastBuildDate>Fri, 04 Aug 2017 08:35:10 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -19,12 +19,12 @@
 	<generator>https://wordpress.org/?v=4.8.1</generator>
 	<item>
 		<title>The Cashmere Crop Mockneck</title>
-		<link>http://www.damontian.com/wordpress-serenity/product/the-cashmere-crop-mockneck/</link>
-		<comments>http://www.damontian.com/wordpress-serenity/product/the-cashmere-crop-mockneck/#respond</comments>
+		<link>http://damontian1.github.io/wordpress-serenity/product/the-cashmere-crop-mockneck/</link>
+		<comments>http://damontian1.github.io/wordpress-serenity/product/the-cashmere-crop-mockneck/#respond</comments>
 		<pubDate>Fri, 04 Aug 2017 08:09:13 +0000</pubDate>
 		<dc:creator><![CDATA[killahb308]]></dc:creator>
-		
-		<guid isPermaLink="false">http://www.damontian.com/wordpress-serenity/?post_type=product&#038;p=21</guid>
+
+		<guid isPermaLink="false">http://damontian1.github.io/wordpress-serenity/?post_type=product&#038;p=21</guid>
 		<description><![CDATA[This Grade-A cashmere mockneck is slightly oversized, with a relaxed but playful cropped cut that we love. It looks especially great with high-waisted pants.]]></description>
 				<content:encoded><![CDATA[<ul class="product-details__container">
 <li class="product-details__item product-details__item--model">Model is 5′10″<span class="product-details__divider">Wearing size S</span></li>
@@ -34,17 +34,17 @@
 <li class="product-details__item product-details__item--factory">Made in Dongguan, China</li>
 </ul>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.damontian.com/wordpress-serenity/product/the-cashmere-crop-mockneck/feed/</wfw:commentRss>
+			<wfw:commentRss>http://damontian1.github.io/wordpress-serenity/product/the-cashmere-crop-mockneck/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>The Soft Cotton Square Crew</title>
-		<link>http://www.damontian.com/wordpress-serenity/product/the-soft-cotton-square-crew/</link>
-		<comments>http://www.damontian.com/wordpress-serenity/product/the-soft-cotton-square-crew/#respond</comments>
+		<link>http://damontian1.github.io/wordpress-serenity/product/the-soft-cotton-square-crew/</link>
+		<comments>http://damontian1.github.io/wordpress-serenity/product/the-soft-cotton-square-crew/#respond</comments>
 		<pubDate>Fri, 04 Aug 2017 08:35:09 +0000</pubDate>
 		<dc:creator><![CDATA[killahb308]]></dc:creator>
-		
-		<guid isPermaLink="false">http://www.damontian.com/wordpress-serenity/?post_type=product&#038;p=35</guid>
+
+		<guid isPermaLink="false">http://damontian1.github.io/wordpress-serenity/?post_type=product&#038;p=35</guid>
 		<description><![CDATA[The year-round layer. Our easy cotton sweater has an oversized cropped fit and elegant drape, so you can pair it with pretty much everything in your closet.]]></description>
 				<content:encoded><![CDATA[<ul class="product-details__container">
 <li class="product-details__item product-details__item--model">Model is 5′10″<span class="product-details__divider">Wearing size S</span></li>
@@ -53,7 +53,7 @@
 <li class="product-details__item product-details__item--factory">Made in Dongguan, China</li>
 </ul>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.damontian.com/wordpress-serenity/product/the-soft-cotton-square-crew/feed/</wfw:commentRss>
+			<wfw:commentRss>http://damontian1.github.io/wordpress-serenity/product/the-soft-cotton-square-crew/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 	</channel>
